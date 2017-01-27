@@ -1,5 +1,5 @@
 pkgname="solarus-quest-editor"
-pkgver="1.5.1"
+pkgver="1.5.2"
 pkgrel="1"
 pkgdesc="A graphical user interface to create and modify quests for the Solarus engine."
 arch=("x86_64")
