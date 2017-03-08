@@ -8,7 +8,7 @@ license=("GPL" "custom")
 depends=("solarus" "qt5-base" "qt5-tools")
 makedepends=("cmake" "zip")
 source=("https://github.com/solarus-games/$pkgname/archive/v$pkgver.tar.gz")
-md5sums=("f20a6f50634d9d89a0657c21f53d5be6")
+md5sums=('32ce3cb8dcc780db253db8ca7ce7fa3f')
 
 build() {
   cd "$srcdir/$pkgname-$pkgver"
